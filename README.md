@@ -24,11 +24,11 @@ Collaboration
  - DATABASE( MYSQL,POSTGRESS,MONGODB),
  - MODELING(MONGOOSE)
  - DSA
-#Achievement
-   - MYSQL certificate[https://www.hackerrank.com/certificates/065bb9fd60b4]
-   - BASIC JAVA certificate[https://www.hackerrank.com/certificates/065bb9fd60b4]
-   - GEEKSFORGEEKS link[https://www.geeksforgeeks.org/user/jaykumar488/?ref=header_profile]
-   - LEETCODE link[https://leetcode.com/u/4dCayR96Uy/]
+# Achievement
+   - MYSQL certificate['https://www.hackerrank.com/certificates/065bb9fd60b4']
+   - BASIC JAVA certificate['https://www.hackerrank.com/certificates/065bb9fd60b4']
+   - GEEKSFORGEEKS link['https://www.geeksforgeeks.org/user/jaykumar488/?ref=header_profile']
+   - LEETCODE link['https://leetcode.com/u/4dCayR96Uy/']
 
 Let’s build something amazing together! 🚀
 
