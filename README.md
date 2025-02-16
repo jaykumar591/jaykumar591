@@ -26,7 +26,7 @@ Collaboration
  - DSA
  - # CORE Subject
     - Digital System design (Number system, K map,endocer,multiplexer,Flip-flop)
-    - DSA (Array,Sorting,Searching, LinkedList,Stack,Queue,Tree,Trie,Recurrsion,Graph,Dymanic Programing) in java,javascript,python
+    - DSA (Array,Sorting,Searching, LinkedList,Stack,Queue,Tree,Trie,map,heap,Recurrsion,Graph,Dymanic Programing) in java,javascript,python
     - Problem solving Skills
     - DBMS
     - Computer Network
