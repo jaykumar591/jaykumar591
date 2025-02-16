@@ -2,7 +2,7 @@
 - 👀 I’m interested in Backend || Fronted || Full stack || React Native || Expo || POSTGRESS || MYSQL || MONGODB Developer
 - 🌱 I’m currently learning POSTGRESS || Unreal engine || React Native and web project
 - 💞️ I’m looking to collaborate wiht any type project in android and web
-- 📫 [Contact Me] (jaykumar2dear@gmail.com)
+- 📫 [Contact Me](jaykumar2dear@gmail.com)
 - 😄 Pronouns: Jay Kumar
 - ⚡ Fun fact: ...
 
