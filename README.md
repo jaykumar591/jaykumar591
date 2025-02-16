@@ -24,6 +24,29 @@ Collaboration
  - DATABASE( MYSQL,POSTGRESS,MONGODB),
  - MODELING(MONGOOSE)
  - DSA
+ - # CORE Subject
+    - Digital System design (Number system, K map,endocer,multiplexer,Flip-flop)
+    - DSA (Array, LinkedList,Stack,Queue,Tree,Trie,Recurrsion,Graph,Dymanic Programing) in java,javascript,python
+    - Problem solving Skills
+    - DBMS
+    - Computer Network
+    - Operating System
+    - Signal and System
+    - Digital signal Processing
+    - Object oriented Programing
+    - EDC
+ - # Frontend
+     - HTML
+     - CSS (Tailwindcss, Bootstrap,Core CSS)
+     - Javascript ( GSAP,Reanimation)
+     - REACT Js (Use Tailwindcss)
+     - React Native
+     - Next js
+   - # Backend
+      - NodeJs (Express)
+      - Data Mondeling using mongoose
+      - mongodb
+      - SQL(POSTGRESS , MYSQL)
 # Achievement
    - MYSQL [certificate](https://www.hackerrank.com/certificates/065bb9fd60b4)
    - BASIC JAVA [certificate](https://www.hackerrank.com/certificates/065bb9fd60b4)
