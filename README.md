@@ -15,7 +15,7 @@ What I’m Learning
 Collaboration
 💞️ I'm open to collaborating on Android and web development projects of any kind. Whether it’s a startup, freelance work, or an open-source initiative, I’d love to contribute my expertise and learn from others!
 
-#Skills
+# Skills
  - Java
  - C/C++
  - Javascript
