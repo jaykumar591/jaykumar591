@@ -35,6 +35,7 @@ Collaboration
     - Digital signal Processing
     - Object oriented Programing
     - EDC
+    - Electrical Enginneer (KVL,KCL,Thecvenin,Noterns,Superposition,transformers)
  - # Frontend
      - HTML
      - CSS (Tailwindcss, Bootstrap,Core CSS)
