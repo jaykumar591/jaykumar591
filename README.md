@@ -1,5 +1,5 @@
 - 👋 Hi, I’m Jay Kumar
-- 👀 I’m interested in Backend || Fronted || Full stack || React Native || Expo || POSTGRESS || MYSQL || MONGODB Developer
+- 👀 I’m interested in  Full stack || React Native || POSTGRESS || MYSQL
 - 🌱 I’m currently learning POSTGRESS || Unreal engine || React Native and web project
 - 💞️ I’m looking to collaborate wiht any type project in android and web
 - 📫 [Contact Me](jaykumar2dear@gmail.com)
